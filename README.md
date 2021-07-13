@@ -1,4 +1,4 @@
-## Omer App
+# Omer App
 
 To run this app do:
 * npm install
